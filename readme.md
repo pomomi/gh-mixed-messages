@@ -23,3 +23,9 @@ _For this project, you will build a message generator program. Every time a user
 * _JavaScript_
 * _Git_ and _GitHub_
 * _Command line_
+
+---
+
+## My Project
+
+**Haiku Generator!** <br />_Click 'compose' and a random haiku will be generated for you._
