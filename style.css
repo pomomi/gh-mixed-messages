@@ -6,7 +6,7 @@ font-family: 'Reenie Beanie', cursive;*/
   background-size: cover;
   border: 1px solid rgb(124, 124, 124);
   border-radius: 25px;
-  opacity: 0.33;
+  opacity: 0.75;
   position: relative; 
   top: 10px;
   left: 10px;
@@ -18,7 +18,7 @@ font-family: 'Reenie Beanie', cursive;*/
 }
 
 .haiku {
-  background-color: rgba(217, 196, 223, 0.137);
+  background-color: rgba(217, 196, 223, 0.65);
   border: 1px solid rgb(124, 124, 124, 0.33);
   border-radius: 25px;
   box-shadow: 1px 1px 1px rgb(211, 208, 211);
